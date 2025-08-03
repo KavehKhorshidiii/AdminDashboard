@@ -5,7 +5,7 @@
 <br/>
 
 
- Click to open the [Live Website 🌐](https://coffee-shop-two-psi.vercel.app/)
+ Click to open the [Live Website 🌐](https://admin-dashboard-seven-hazel-62.vercel.app/)
 
 
 
