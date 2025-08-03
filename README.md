@@ -71,7 +71,8 @@ npm start
 <br/>
 
 
-screen shot section!
+![Screenshot](./public/Screenshot%20۲۰۲۵-۰۸-۰۳%20at%20۲۳.۵۰.۴۹.png)
+
 
 
 
