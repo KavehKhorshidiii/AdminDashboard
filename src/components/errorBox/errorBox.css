@@ -1,0 +1,31 @@
+.errContainer{
+    margin-bottom: 30px;
+    padding: 20px ;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    border-radius: 10px;
+    background-color: red;
+    color: white;
+    font-size: 25px;
+    position: relative;
+}
+
+
+.errContainer::before{
+    border-radius: 100%;
+    background-color:var(--white-50);
+    content:"";
+    position: absolute;
+    right: 5px;
+    top: 5px;
+    width: 17px;
+    height: 17px;
+    animation: redBall 1.7s normal infinite;
+}
+
+@keyframes redBall{
+    0%{background-color: var(--white-50);}
+    50%{background-color: red;}
+    100%{background-color: var(--white-50);}
+}

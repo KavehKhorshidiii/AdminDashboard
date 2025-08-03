@@ -1,0 +1,40 @@
+.modal-parent{
+    position: fixed;
+    top: 0;
+    visibility: hidden;
+    opacity: 0;
+    display: none;
+    align-items: center;
+    justify-content: center;
+    backdrop-filter: blur(0px);
+    transition: backdrop-filter 1s ease;
+}
+.active{
+    display: block;
+    top: 0;
+    backdrop-filter: blur(50px);
+    opacity: 1;
+    visibility: visible;
+}
+.delete-modal{
+    display: flex;
+    align-items: center;
+    gap: 100px;
+    font-size: 20px;
+    width: max-content;
+    background-color: var(--blue);
+    border-radius: 20px;
+    color: var(--white-50);
+    text-align: center;
+    padding: 70px;
+}
+.modal-btn-container{
+    display: flex;
+    gap: 10px;
+    flex-direction: column;
+}
+.modal-btn{
+    padding: 10px 40px;
+    border: none;
+    border-radius: 10px;
+}

@@ -1,0 +1,20 @@
+.comment-container{
+    border: 5px solid var(--blue);
+    border-radius: 20px;
+    background-color: var(--white);
+}
+.comment{
+    background-color: var(--white-50);
+    padding-block: 10px;
+    margin: 22px;
+    border-radius: 10px;
+    padding: 20px;
+}
+.email-comment{
+    color: var(--blue);
+    font-weight: bold;
+    margin-bottom: 10px;
+}
+.text-comment{
+
+}

@@ -1,0 +1,63 @@
+.addNewProductComponent{
+    margin-bottom: 40px;
+}
+.addNewProductTitle{
+    font-size: 30px;
+    text-align: right;
+}
+.addNewProductContainer{
+    border-radius: 20px;
+    padding: 20px;
+    background-color: var(--white);
+    display: flex;
+    flex-direction: column;
+}
+.parentBtn{
+    display: flex;
+    flex-direction: row-reverse;
+}
+.addNewProductContainerInputs{
+    display: grid;
+    gap: 10px 25px;
+    grid-template-columns: 1fr 1fr;
+    grid-template-rows: auto auto auto;
+    justify-content: left;
+    margin-bottom: 20px;
+}
+.addProductInput{
+    outline: none;
+    border: none;
+    width: 90%;
+    border-radius: 10px;
+    height: 50px;
+    font-size: 20px;
+    background-color: var(--white-50);
+    border-radius: 20px;
+
+
+}
+.addProductInput::placeholder{
+    font-size: 20px;
+    color: rgb(40, 37, 37);
+}
+.addNewProductBtn{
+    width: 150px;
+    border: none;
+    height: 60px;
+    border-radius: 10px;
+    background-color: var(--blue);
+    font-size: 17px;
+}
+.addNewProductBtn:hover{
+    box-shadow:var(--btn-shadow);
+}
+.addNewProductInputs{
+    background-color: var(--white-50);
+    border-radius: 20px;
+    display: flex;
+    align-items: center;
+}
+.addNewProduct-icon{
+    font-size: 20px;
+    padding: 0 5px 0 10px;
+}
