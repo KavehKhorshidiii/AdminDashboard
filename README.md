@@ -73,10 +73,6 @@ npm start
 
 ![Screenshot](./public/reademe%20screenshot/s2.png)
 
-<br/>
-
-![Screenshot](./public/reademe%20screenshot/s3.png)
-
 
 <br/>
 <br/>
