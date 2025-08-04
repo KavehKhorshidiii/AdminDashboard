@@ -1,8 +1,11 @@
-## Admin Dashboard 💻
+### Admin Dashboard 💻
 
 
+
+---
+
 <br/>
-<br/>
+
 
 
  Click to open the [Live Website 🌐](https://admin-dashboard-seven-hazel-62.vercel.app/)
@@ -10,6 +13,9 @@
 
 
 <br/>
+
+---
+
 <br/>
 
 
@@ -19,6 +25,9 @@ This project was left incomplete due to limited access to a proper backend envir
 
 
 <br/>
+
+---
+
 <br/>
 
 
@@ -33,6 +42,9 @@ This project was left incomplete due to limited access to a proper backend envir
 
 
 <br/>
+
+---
+
 <br/>
 
 
@@ -59,6 +71,9 @@ npm start
 
 
 <br/>
+
+---
+
 <br/>
 
 
@@ -68,6 +83,9 @@ npm start
 
 
 <br/>
+
+---
+
 <br/>
 
 
@@ -78,6 +96,9 @@ npm start
 
 
 <br/>
+
+---
+
 <br/>
 
 
