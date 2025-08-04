@@ -3,13 +3,11 @@
 
 <br/>
 <br/>
-<br/>
 
 
  Click to open the [Live Website 🌐](https://admin-dashboard-seven-hazel-62.vercel.app/)
 
 
-<br/>
 <br/>
 <br/>
 
@@ -19,7 +17,6 @@
 This project was left incomplete due to limited access to a proper backend environment.
 
 
-<br/>
 <br/>
 <br/>
 
@@ -32,16 +29,15 @@ This project was left incomplete due to limited access to a proper backend envir
 
 <br/>
 <br/>
-<br/>
 
 
 ### Installation & Usage📦
 
-##### Requirements 
+###### Requirements 
 - Node.js 
 - npm or yarn
 
-##### Installation Steps 
+###### Installation Steps 
 
 1. Clone the project 
 git clone https://github.com/Kaveh-Khorshidi/AdminDashboard.git
@@ -58,7 +54,6 @@ npm start
 
 <br/>
 <br/>
-<br/>
 
 
 ### Tech Stack⚙️
@@ -67,7 +62,6 @@ npm start
 -react-query
 
 
-<br/>
 <br/>
 <br/>
 
@@ -84,9 +78,6 @@ npm start
 ![Screenshot](./public/reademe%20screenshot/s3.png)
 
 
-
-
-<br/>
 <br/>
 <br/>
 
