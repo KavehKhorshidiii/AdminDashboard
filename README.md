@@ -1,21 +1,16 @@
-### Admin Dashboard 💻
+# Admin Dashboard 💻
 
-
-
----
 
 <br/>
-
+<br/>
+<br/>
 
 
  Click to open the [Live Website 🌐](https://admin-dashboard-seven-hazel-62.vercel.app/)
 
 
-
 <br/>
-
----
-
+<br/>
 <br/>
 
 
@@ -25,13 +20,8 @@ This project was left incomplete due to limited access to a proper backend envir
 
 
 <br/>
-
----
-
 <br/>
-
-
-
+<br/>
 
 
 ### Features✨
@@ -40,11 +30,8 @@ This project was left incomplete due to limited access to a proper backend envir
 - Sidebar 
 
 
-
 <br/>
-
----
-
+<br/>
 <br/>
 
 
@@ -53,7 +40,6 @@ This project was left incomplete due to limited access to a proper backend envir
 ##### Requirements 
 - Node.js 
 - npm or yarn
-
 
 ##### Installation Steps 
 
@@ -71,9 +57,7 @@ npm start
 
 
 <br/>
-
----
-
+<br/>
 <br/>
 
 
@@ -81,30 +65,29 @@ npm start
 - React.js
 
 
-
 <br/>
-
----
-
+<br/>
 <br/>
 
 
 ### ScreenShot🌌
-![Screenshot](./public/Screenshot%20۲۰۲۵-۰۸-۰۳%20at%20۲۳.۵۰.۴۹.png)
-
-
-
+![Screenshot](./public/reademe%20screenshot/s1.png)
 
 <br/>
 
----
+![Screenshot](./public/reademe%20screenshot/s2.png)
 
 <br/>
 
+![Screenshot](./public/reademe%20screenshot/s3.png)
+
+
+<br/>
+<br/>
+<br/>
 
 
 Developed by [Kaveh Khorshidi](https://github.com/Kaveh-Khorshidi) 💻
-
 
 
 
