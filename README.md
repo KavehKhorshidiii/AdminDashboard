@@ -1,4 +1,4 @@
-# Admin Dashboard 💻
+# Admin Dashboard ⚙️
 
 
 <br/>
