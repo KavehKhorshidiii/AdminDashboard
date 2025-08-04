@@ -85,6 +85,10 @@ npm start
 
 
 <br/>
+
+<img src="./public/reademe screenshot/s1.png" style="border-radius: 15px; width: 500px;" />
+
+
 <br/>
 <br/>
 
