@@ -1,6 +1,7 @@
 <h1 align="center">⚙️ Admin Dashboard </h1>
 
 
+
 <br/>
 <br/>
 <br/>
@@ -42,16 +43,26 @@ This project was left incomplete due to limited access to a proper backend envir
 ###### Installation Steps 
 
 1. Clone the project 
+```bash
 git clone https://github.com/Kaveh-Khorshidi/AdminDashboard.git
+```
 
-2. Move into the project directory
+3. Move into the project directory
+```bash
 cd my-app
+```
 
-3. Install dependencies
+5. Install dependencies
+```bash
 npm install
+```
 
-4. Start the development server
+7. Start the development server
 npm start
+```bash
+npm start
+```
+
 
 
 <br/>
