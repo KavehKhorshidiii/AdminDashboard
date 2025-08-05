@@ -1,6 +1,14 @@
-# ⚙️ Admin Dashboard 
+<h1 align="center">⚙️ Admin Dashboard </h1>
 
- Click to open the [Live Website 🌐](https://admin-dashboard-seven-hazel-62.vercel.app/)
+
+<br/>
+<br/>
+<br/>
+<br/>
+
+
+## 🌐 Live Demo  
+[Open the Live Website](https://admin-dashboard-seven-hazel-62.vercel.app/)
 
 
 <br/>
