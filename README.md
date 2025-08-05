@@ -1,9 +1,4 @@
-# Admin Dashboard ⚙️
-
-
-<br/>
-<br/>
-
+# ⚙️ Admin Dashboard 
 
  Click to open the [Live Website 🌐](https://admin-dashboard-seven-hazel-62.vercel.app/)
 
@@ -12,7 +7,7 @@
 <br/>
 
 
-### Description📄
+## 📄 Description
 
 This project was left incomplete due to limited access to a proper backend environment.
 
@@ -21,7 +16,7 @@ This project was left incomplete due to limited access to a proper backend envir
 <br/>
 
 
-### Features✨
+## ✨ Features
 
 - Error Alert
 - Sidebar 
@@ -31,7 +26,7 @@ This project was left incomplete due to limited access to a proper backend envir
 <br/>
 
 
-### Installation & Usage📦
+## 📦 Installation & Usage
 
 ###### Requirements 
 - Node.js 
@@ -56,7 +51,7 @@ npm start
 <br/>
 
 
-### Tech Stack⚙️
+## ⚙️ Tech Stack
 - React.js
 - Axios
 -react-query
@@ -65,8 +60,40 @@ npm start
 <br/>
 <br/>
 
+## 🎯 Project Goals
+- Practice building a simple app using React 
 
-### ScreenShot🌌
+
+<br/>
+<br/>
+
+
+## 📌 TODO (Next Steps)
+
+- [ ] Add unit testing (using Vitest or Jest)
+
+
+<br/>
+<br/>
+
+
+## 🪪 License
+This project is licensed under the MIT License.
+
+
+<br/>
+<br/>
+
+
+## 🧪 Testing
+This project currently does not include any automated tests. However, I plan to add testing in the future using either **Vitest** or **Jest**.
+
+
+<br/>
+<br/>
+
+
+## ScreenShot🌌
 ![Screenshot](./public/reademe%20screenshot/s1.png)
 
 <br/>
@@ -78,4 +105,11 @@ npm start
 <br/>
 
 
-Developed by [Kaveh Khorshidi](https://github.com/Kaveh-Khorshidi) 💻
+<h3 align="center">
+
+<a href="https://github.com/Kaveh-Khorshidi" >
+"Developed  by  Kaveh Khorshidi"
+</a>
+
+</h3>
+
