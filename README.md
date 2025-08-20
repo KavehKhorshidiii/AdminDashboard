@@ -47,17 +47,17 @@ This project was left incomplete due to limited access to a proper backend envir
 git clone https://github.com/Kaveh-Khorshidi/AdminDashboard.git
 ```
 
-3. Move into the project directory
+2. Move into the project directory
 ```bash
 cd my-app
 ```
 
-5. Install dependencies
+3. Install dependencies
 ```bash
 npm install
 ```
 
-7. Start the development server
+4. Start the development server
 npm start
 ```bash
 npm start
