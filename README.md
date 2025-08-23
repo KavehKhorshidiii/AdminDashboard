@@ -112,6 +112,8 @@ This project currently does not include any automated tests. However, I plan to 
 
 
 ## 🌌 ScreenShot
+
+###### Desktop
 ![Screenshot](./public/reademe%20screenshot/s1.png)
 
 <br/>
