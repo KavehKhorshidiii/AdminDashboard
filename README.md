@@ -7,7 +7,7 @@
 <br/>
 
 
-## 🌐 Live Demo  
+## Live Demo  
 [Open the Live Website](https://admin-dashboard-seven-hazel-62.vercel.app/)
 
 
