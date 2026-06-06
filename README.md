@@ -1,4 +1,4 @@
-<h1 align="center">⚙️ Admin Dashboard </h1>
+<h1 align="center">Admin Dashboard </h1>
 
 
 
@@ -15,7 +15,7 @@
 <br/>
 
 
-## 📄 Description
+## Description
 
 This project was left incomplete due to limited access to a proper backend environment.
 
@@ -34,7 +34,7 @@ This project was left incomplete due to limited access to a proper backend envir
 <br/>
 
 
-## 📦 Installation & Usage
+## Installation & Usage
 
 ###### Requirements 
 - Node.js 
