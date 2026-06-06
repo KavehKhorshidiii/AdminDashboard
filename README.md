@@ -86,7 +86,7 @@ npm start
 <br/>
 
 
-## 📌 TODO (Next Steps)
+## TODO (Next Steps)
 
 - [ ] Add unit testing (using Vitest or Jest)
 
