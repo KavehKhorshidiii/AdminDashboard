@@ -24,7 +24,7 @@ This project was left incomplete due to limited access to a proper backend envir
 <br/>
 
 
-## ✨ Features
+## Features
 
 - Error Alert
 - Sidebar 
